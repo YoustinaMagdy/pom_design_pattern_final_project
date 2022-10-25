@@ -1,0 +1,12 @@
+<suite name="Regression suite">
+
+    <test name="Regression tests I">
+        <classes>
+            <class name="Tests.SearchProductTest"></class>
+            <class name="Tests.AddToCartTest"></class>
+
+        </classes>
+    </test>
+
+
+</suite>
